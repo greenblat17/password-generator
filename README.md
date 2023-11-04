@@ -36,6 +36,7 @@ Telegram bot that generates a password according to certain patterns
  - service: github
  - secret key: secret
  - secret number: 1234
+ - generated password: Gb_secret_469
 
 1. First letter: G; Last letter: B
 2. G = num1 = 4; B = num2 = 2
